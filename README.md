@@ -1,13 +1,16 @@
-### Olá! 👋
+## Hi there 👋
 
-👨‍💻 Desenvolvedor Java, Python, React e Docker | Apaixonado por TI e inovação | #CodeLife 🚀
+<!--
+**marcossilva023l20/marcossilva023l20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcossilva023l20&show_icons=true&theme=dracula&locale=pt-br)](https://github.com/marcossilva023l20)
+Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcossilva023l20&layout=compact&theme=dracula&locale=pt-br)](https://github.com/marcossilva023l20)
-
-### Tecnologias que uso:
-- Java ☕
-- Python 🐍
-- React ⚛️
-- Docker 🐳
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
